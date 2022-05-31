@@ -1,0 +1,6 @@
+a1=list()
+for i in range(2,10):
+    a1.remove(i)
+    print(a1)
+         
+
